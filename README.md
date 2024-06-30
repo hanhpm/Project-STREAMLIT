@@ -67,11 +67,7 @@ Each application can be run separately using specific commands in the Anaconda P
 
 ### Summary
 
-- **Chatbot Application:** `streamlit run chatbot.py`
-- **Levenshtein Distance Application:** `streamlit run levenshtein-distance.py`
-- **Object Detection Application:** `python object-detection.py`
-
-By following these instructions, you should be able to set up the Anaconda environment and run each of the applications in this project. If you encounter any issues or need further assistance, please refer to the documentation or contact the project maintainer.
+By following these instructions, you should be able to set up the Anaconda environment and run each of the applications in this project. If you encounter any issues or need further assistance, please refer to the documentation.
 
 ### Notes
 
