@@ -31,9 +31,7 @@ To set up the environment and run the applications, follow these detailed steps:
 Install the required libraries for the project using the following commands:
 
 ```bash
-conda install streamlit
-conda install -c conda-forge levenshtein
-conda install -c anaconda tensorflow
+conda install <name-libs>
 ```
 
 ### Step 4: Running the Applications
